@@ -63,11 +63,10 @@ Run su command to change terminal
 ```
     data_backup.sh -m
 ```
-```
+
 2. From ***Termux terminal*** :
 ```bash
    adb shell
-```bash
 data_backup.sh -m
 ```
 ## Parameters at starting
