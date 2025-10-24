@@ -66,7 +66,7 @@ Run su command to change terminal
 
 2. From ***Termux terminal*** :
 ```bash
-   adb shell
+adb shell
 data_backup.sh -m
 ```
 ## Parameters at starting
