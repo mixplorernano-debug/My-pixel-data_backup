@@ -55,18 +55,20 @@ The script data_backup.sh will be integrated into the system by installing a Mag
 
 There are 2 variants for running script, from device or PC therminal.
 1. Main variant: From ***Android therminal***, for example [Material Terminal](https://play.google.com/store/apps/details?id=yarolegovich.materialterminal&pli=1) or another. 
+
+Run su command to change terminal 
 ```
+```bash
     su
-    
+```bash
     data_backup.sh -m
 ```
-2. From ***PC therminal*** :
 ```
+2. From ***Termux terminal*** :
+```bash
    adb shell
- 
-    su
-    
-    data_backup.sh -m
+```bash
+data_backup.sh -m
 ```
 ## Parameters at starting
 
