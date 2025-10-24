@@ -66,7 +66,7 @@ There are 2 variants for running script, from device or PC therminal.
  
     su
     
-    data_backup.sh
+    data_backup.sh -m
 ```
 ## Parameters at starting
 
