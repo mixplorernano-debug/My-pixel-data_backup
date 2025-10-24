@@ -58,9 +58,9 @@ There are 2 variants for running script, from device or PC therminal.
 
 Run su command to change terminal 
 ```
-```bash
     su
-```bash
+```
+```
     data_backup.sh -m
 ```
 ```
